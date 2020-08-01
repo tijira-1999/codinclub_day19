@@ -1,4 +1,5 @@
 public class EmployeeWage{
+
 	public static void main(String[] args){
 		int IsFulltime = 1;
 		//System.out.println(Math.random());
