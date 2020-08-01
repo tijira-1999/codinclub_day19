@@ -1,5 +1,6 @@
 class EmployeeWageUC6
 {
+
 	public static void main(String[] args)
 	{
 		final int isfull=1;
